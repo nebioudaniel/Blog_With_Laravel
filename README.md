@@ -68,7 +68,7 @@ Follow these steps to set up and run the project locally:
 
 ## Project Structure
 
-Your project directory should look like this:
+MY project directory should look like this:
 
 my_blog_app/
 ├── app/
