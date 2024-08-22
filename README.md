@@ -19,6 +19,18 @@ This is a blog application built using Laravel, Tailwind CSS, HTML, and jQuery. 
 sites
  and more ...
 
+## Photo 3
+
+![Screenshot (3)](https://github.com/user-attachments/assets/c1cbaa84-6540-462b-9828-c2f1440f5092)
+
+## photo 4
+
+![Screenshot (4)](https://github.com/user-attachments/assets/646af479-0213-4231-886c-1dd74549e6e3)
+
+## Photo 5
+
+![Screenshot (5)](https://github.com/user-attachments/assets/abc5b409-7249-4560-9546-bc44db379c1e)
+
 ## Prerequi 
 Before you begin, ensure you have met the following requirements:
 
