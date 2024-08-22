@@ -11,10 +11,15 @@ This is a blog application built using Laravel, Tailwind CSS, HTML, and jQuery. 
 - **Frontend Interactions**: Enhanced user experience with jQuery.
 
 
-## Photos 
+## Photo 1
+![Screenshot (1)](https://github.com/user-attachments/assets/b898dd1b-8bd2-44ad-ad1f-340b935390b2)
 
-## Prerequisites
+## Photo 2
+![Screenshot (2)](https://github.com/user-attachments/assets/be355c05-15b9-4471-afe2-18d4c82928dd)
+sites
+ and more ...
 
+## Prerequi 
 Before you begin, ensure you have met the following requirements:
 
 - PHP installed on your local machine
